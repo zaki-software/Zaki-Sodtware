@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/zakaria-ali
+[linkedin]: https://www.linkedin.com/in/zakaria-ali-8116a4326
