@@ -16,6 +16,6 @@
 [<img align="left" alt="zakaria-ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[WhatsApp]: 252612436314
+[WhatsApp]: [252612436314](https://web.whatsapp.com/)
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://www.linkedin.com/in/zakaria-ali-8116a4326
